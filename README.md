@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Twitter Clone**
 
-- 🌱 I’m currently learning **Nest.js, testing with**
+- 🌱 I’m currently learning **Nest.js, testing with Jest**
 
 - 🤝 I’m looking for help with **microservices in Node.js**
 
