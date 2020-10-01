@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js, testing with Jest**
 
-- 🤝 I’m looking for help with **microservices in Node.js**
+- 🤝 I’m looking for help with **microservices in Node.js, docerizing apps**
 
 - 💬 Ask me about **React, Node.js**
 
