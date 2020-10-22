@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **Twitter Clone, Portfolio**
 
 - 🌱 I’m currently learning **Nest.js, testing with Jest**
 
