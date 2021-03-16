@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Twitter Clone**
 
-- 🌱 I’m currently learning **Nest.js, testing with Jest**
+- 🌱 I’m currently learning **Testing with Jest and react-testing-library**
 
-- 🤝 I’m looking for help with **microservices in Node.js, dockerizing apps**
+- 🤝 I’m looking for help with **new app ideas, because i don't want to code another crud**
 
 - 👨‍💻 All of my projects are available at [https://jakubsukiennik.netlify.app/](https://jakubsukiennik.netlify.app/)
 
