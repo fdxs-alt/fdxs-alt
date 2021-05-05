@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **Connector**
 
-- 🌱 I’m currently learning **Testing with Jest and react-testing-library**
+- 🌱 I’m currently learning WebRTC and cypress
 
 - 🤝 I’m looking for help with **new app ideas, because i don't want to code another crud**
 
