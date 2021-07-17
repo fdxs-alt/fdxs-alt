@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Connector**
+- 🔭 I’m currently working on ... - **trying to find idea for an app**
 
-- 🌱 I’m currently learning WebRTC and cypress
-
-- 🤝 I’m looking for help with **new app ideas, because i don't want to code another crud**
+- 🌱 I’m currently learning Storybook and testing.
 
 - 👨‍💻 All of my projects are available at [https://jakubsukiennik.netlify.app/](https://jakubsukiennik.netlify.app/)
 
@@ -13,4 +11,4 @@
 
 - 📫 How to reach me **kuba1207710@gmail.com**
 
-- ⚡ Fun fact **I'm almost 100 kg's!**
+- ⚡ Fun fact **I've got a dog - Skadi**
