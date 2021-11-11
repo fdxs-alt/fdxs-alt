@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **kuba1207710@gmail.com**
 
-- ⚡ Fun fact **I've got a dog - Skadi**
+- ⚡ Fun fact **I've got two dog - Skadi and Jaga**
