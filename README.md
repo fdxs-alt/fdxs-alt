@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... - **trying to find idea for an app**
 
-- 🌱 I’m currently learning Storybook and testing.
+- 🌱 I’m currently learning Angular and ML.
 
 - 👨‍💻 All of my projects are available at [https://jakubsukiennik.netlify.app/](https://jakubsukiennik.netlify.app/)
 
